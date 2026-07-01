@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- ============================================================ -->
 <!--  GITHUB PROFILE README — Balasubramanyam Karipaka           -->
