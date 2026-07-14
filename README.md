@@ -115,6 +115,27 @@ Passionate about **Generative AI, LangChain, LangGraph & Computer vision** — a
 ## 🚀 Featured Projects
 
 <!-- Update GitHub Link / Live Demo placeholders below with real URLs -->
+---
+
+### 💰 AI Personal Finance & Government Benefits Advisor
+
+Developed an AI-powered financial assistant that combines **Personal Finance Analysis, Tax Advisory, and Government Scheme Recommendation** into a single intelligent platform. The system leverages **Multi-Agent AI, Retrieval-Augmented Generation (RAG), LangGraph, LangChain, Ollama, ChromaDB, FastAPI, and SQLite** to analyze users' financial data, estimate taxes, and recommend relevant Central and State Government welfare schemes based on user eligibility.
+
+**Key Features**
+- 📊 Personal finance analysis from CSV/Excel bank statements
+- 💸 Budget tracking and spending pattern visualization
+- 🧾 Income tax estimation with personalized recommendations
+- 🏛️ AI-powered Government Scheme & Benefit recommendation engine
+- 🔍 RAG-powered knowledge base using official government documents
+- 🤖 Multi-Agent architecture with Supervisor, Finance, Tax, Eligibility, Recommendation & RAG Agents
+- 📄 Intelligent report generation and personalized financial insights
+- 🔐 Secure user authentication and profile management
+
+`LangGraph` `LangChain` `FastAPI` `SQLite` `Ollama` `ChromaDB` `RAG` `Multi-Agent AI`
+
+[🔗 GitHub Repo](https://github.com/Balu9911) &nbsp;|&nbsp; [🌐 Live Demo](#)
+
+---
 
 ### 🤖 AI-Powered College Multi-Agent Assistant System
 Built a role-based AI assistant using **LangGraph, LangChain, Flask, SQLite, and Ollama** for student and faculty support.
