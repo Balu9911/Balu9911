@@ -26,7 +26,7 @@
 <div align="center">
 
 ### 🤖 AI Engineer Intern | Building AI Agents, RAG Systems & ML Applications
-Passionate about **Generative AI, LangChain, LangGraph, and Computer Vision** — always learning, building, and solving real-world problems.
+Passionate about **Generative AI, LangChain & LangGraph** — always learning, building, and solving real-world problems.
 
 📍 **Hyderabad, India** &nbsp;|&nbsp; 🎓 **B.Tech, CSE, JNTUA** &nbsp;|&nbsp; 💼 **AI Engineer Intern**
 
