@@ -10,7 +10,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Balasubramanyam+Karipaka;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents%2C+RAG+Systems+%26+ML+Apps;Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Balasubramanyam+Karipaka;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents%2C+RAG+Systems+%26+ML+Ops;Generative+AI+%7C+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 <div align="center">
 
 ### 🤖 AI Engineer Intern | Building AI Agents, RAG Systems & ML Applications
-Passionate about **Generative AI, LangChain & LangGraph** — always learning, building, and solving real-world problems.
+Passionate about **Generative AI, LangChain, LangGraph & Computer vision** — always learning, building, and solving real-world problems.
 
 📍 **Hyderabad, India** &nbsp;|&nbsp; 🎓 **B.Tech, CSE, JNTUA** &nbsp;|&nbsp; 💼 **AI Engineer Intern**
 
